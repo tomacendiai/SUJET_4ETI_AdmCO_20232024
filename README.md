@@ -43,7 +43,7 @@ if __name__ == '__main__':
 
   print('Code executed under the scope: ', __name__)
 ```
-Pour chaque question, cous indiquerz vos ou vos sites choisis pour reference
+Pour chaque question, vous indiquez vos ou vos sites choisis pour reference
 
 A quoi sert requirments.txt ?
 
