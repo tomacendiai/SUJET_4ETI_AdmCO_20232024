@@ -139,11 +139,6 @@ Comment gérer de ne distribuer qu'une partie. Voir en particulier pour ne distr
 
 
 
-
-
-
-
-
 ## Exercice 9.a
 
 Création d’un package sur un repository pypi.
@@ -153,13 +148,13 @@ Creer vous un compte sur test.pypi.org
 Apres avoir créer votre token, déposer la partie fonctionnelle de votre package. Faites l’installation
 
 
-## Exercice 9.b
+## Exercice 10
 
-Peux t on installer directement les paquets à partir du repository gilab ? Cela est il aussi possible dans le cas de dépendances (requirement.txt) ?
+Peut-on installer directement les paquets à partir du repository gilab ? Cela est il aussi possible dans le cas de dépendances (requirement.txt) ?
 
 Prise en main, de l'intégration continu proposé par gitlab. 
 
-## Exercice 10
+## Exercice 11
 
 Prise en main, de l'intégration continu proposé par gitlab. 
 
@@ -173,7 +168,7 @@ Essayer d'automatiser la phase de déploiement sur Pypi ment depuis g
 
 ## Exercice 12 (Bonus)
 
-Montrer en quoi visualcode peut vous aider dans les différentes tâches associés aux exercices .
+Montrer en quoi visualcode peut vous aider dans les différentes tâches associés aux exercices . Refaire l'ensemble en utilisant visualcode.
 
 
 
