@@ -3,6 +3,7 @@
 
 **Activité AdmCo 
 Partie 1 2023-2024**
+Le rendu  est à faire en markdown sous github. Le rendu est à faire en monome . Les activirtés de codage sont à faire sous gitlab. L'ensemble des liens gitlabs des questions doit être inclus dans le rapport sous gitlab
 
 Héberger chaque question sur gitlab. Faite un tag 1.0 quand vous pensez que  l’exercice est finalisé. Donnez moi les droits maintener sur vos projets ( « fabricejumel »)
 
@@ -96,7 +97,7 @@ Jeter un coup d’oeil sur les règles de codage en python (pep8,pep20), expliqu
 
 Creer un package calculator contenant votre classe
 
-fCreer un package test contenant votre code de test de ce package/classe
+Creer un package test contenant votre code de test de ce package/classe
 
 Faites vos Commentaire sous forme de docstring, associé en particulier aux différentes méthodes
 
