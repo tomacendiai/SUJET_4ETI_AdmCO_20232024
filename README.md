@@ -49,7 +49,7 @@ A quoi ressemble un module en python ?
 
 A quoi ressemble un package ?
 
-Créer un code python utilisant sous forme demodule addition.py
+Créer un code python utilisant sous forme de module addition.py
 
 A quoi sert pip ? 
 
