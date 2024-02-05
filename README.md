@@ -55,7 +55,7 @@ Créer un code python utilisant sous forme de module addition.py
 
 A quoi sert pip ? 
 
-A quoi sert PYTONPATH ?
+A quoi sert PYTHONPATH ?
 
 Ou sont stocké les paquets installé par pip ?
 
