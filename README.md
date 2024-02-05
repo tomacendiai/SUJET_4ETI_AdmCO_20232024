@@ -24,11 +24,11 @@ Expliquer le code suivant  (addition.py):
 ```python
 def add(x, y):
 
-`    `z=x+y
+  z=x+y
 
-`        `print('add() executed under the scope: ', \_\_name\_\_)
+  print('add() executed under the scope: ', \_\_name\_\_)
 
-`    `return z
+  return z
 
 if \_\_name\_\_ == '\_\_main\_\_':
 
