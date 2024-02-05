@@ -25,11 +25,11 @@ def add(x, y):
 
   z=x+y
 
-  print('add() executed under the scope: ', \_\_name\_\_)
+  print('add() executed under the scope: ', __name__)
 
   return z
 
-if \_\_name\_\_ == '\_\_main\_\_':
+if __name__ == '__main__':
 
   x=input('Enter the first number to add: ')
 
@@ -39,7 +39,7 @@ if \_\_name\_\_ == '\_\_main\_\_':
 
   print(x, '+', y,'=', result)
 
-  print('Code executed under the scope: ', \_\_name\_\_)
+  print('Code executed under the scope: ', __name__)
 ```
 
 A quoi sert requirments.txt ?
