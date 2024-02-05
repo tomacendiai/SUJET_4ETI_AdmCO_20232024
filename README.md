@@ -42,6 +42,7 @@ if __name__ == '__main__':
 
   print('Code executed under the scope: ', __name__)
 ```
+Pour chaque question, cous indiquerz vos ou vos sites choisis pour reference
 
 A quoi sert requirments.txt ?
 
@@ -62,6 +63,10 @@ A quoi sert pip install –user ?
 A quoi sert venv ? 
 
 Comment utiliser venv ?
+
+A quoi sert docker ?
+
+Comment utiliser docker ?
 
 ## Exercice 1
 
@@ -169,7 +174,7 @@ Essayer d'automatiser la phase de déploiement sur Pypi ment depuis g
 
 ## Exercice 12 (Bonus)
 
-Montrer en quoi visualcode peut vous aider dans les différentes tâches associés aux exercices . Refaire l'ensemble en utilisant visualcode.
+Montrer en quoi visualcode peut vous aider dans les différentes tâches associés aux exercices . Refaire l'ensemble en utilisant visualcode. Illustrer avec des copies d'ecrans quand vous utilisez les fonctionnalités et expliquer le résultat 
 
 
 
