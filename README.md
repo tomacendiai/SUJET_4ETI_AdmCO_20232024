@@ -17,7 +17,7 @@ l’idée est de faire mieux , en lien avec votre sujet (bien sûr) que ces deux
 Il est demandé de ne pas utiliser visualcode . 	
 
 
-Exercice 0 
+## Exercice 0 
 
 Expliquer le code suivant  (addition.py):
 ```python
@@ -62,7 +62,7 @@ A quoi sert venv ?
 
 Comment utiliser venv ?
 
-Exercice 1
+## Exercice 1
 
 Créer un fichier python et coder 4 fonctions permettant de faire la somme, la différence, le produit et la division de 2 nombres complexes (sum, substract, mutliply, divide). 
 
@@ -74,7 +74,7 @@ Tester vos fonctions dans le même fichier
 
 
 
-Exercice 2
+## Exercice 2
 
 Creer une classe SimpleComplexCalculator proposant vos 4 méthodes
 
@@ -84,7 +84,7 @@ Tester votre classe dans le même fichier
 
 
 
-Exercice 3
+## Exercice 3
 
 Jeter un coup d’oeil sur les règles de codage en python (pep8,pep20), expliquer ce que vous avez du corriger dans votre code.
 
@@ -92,7 +92,7 @@ Jeter un coup d’oeil sur les règles de codage en python (pep8,pep20), expliqu
 
 
 
-Exercice 4
+## Exercice 4
 
 Creer un package calculator contenant votre classe
 
@@ -102,7 +102,7 @@ Faites vos Commentaire sous forme de docstring, associé en particulier aux diff
 
 
 
-Exercice 5
+## Exercice 5
 
 Tester dans vos méthodes de calcul que les entrées sont biens des entiers (avec par exemple isInstance(a, int) ), renvoyer **"ERROR"** si le calcul est impossible, au passage, gérer explicitement le cas de la division impossible par zero ( ex **raise** ZeroDivisionError(**"Cannot divide by zero"**) )
 
@@ -112,7 +112,7 @@ Tester le bon fonctionnement de ces améliorations
 
 
 
-Exercice 6
+## Exercice 6
 
 En utilisant unitest (**import** unittest)
 
@@ -120,7 +120,7 @@ dans votre classe test, mettre en place un ensemble de tests sur votre classe de
 
 
 
-Exercice 7
+## Exercice 7
 
 En utilisant le système de gestion des logs (**import logging**)
 
@@ -130,7 +130,7 @@ Compléter vos classes de logs à la fois dans le cas où tout se passe bien et 
 
 
 
-*Exercice 8*
+## Exercice 8
 
 Distribution de votre code. Creation d’une version zippé de votre projet.
 
@@ -144,7 +144,7 @@ Comment gérer de ne distribuer qu'une partie. Voir en particulier pour ne distr
 
 
 
-Exercice 9.a
+## Exercice 9.a
 
 Création d’un package sur un repository pypi.
 
@@ -153,25 +153,25 @@ Creer vous un compte sur test.pypi.org
 Apres avoir créer votre token, déposer la partie fonctionnelle de votre package. Faites l’installation
 
 
-Exercice 9.b
+## Exercice 9.b
 
 Peux t on installer directement les paquets à partir du repository gilab ? Cela est il aussi possible dans le cas de dépendances (requirement.txt) ?
 
 Prise en main, de l'intégration continu proposé par gitlab. 
 
-Exercice 10
+## Exercice 10
 
 Prise en main, de l'intégration continu proposé par gitlab. 
 
 Automatiser la phase de test et en cas de succès, la génération du .whl 
 
-Exercice 11 (Bonus)
+## Exercice 11 (Bonus)
 
 Essayer d'automatiser la phase de déploiement sur Pypi ment depuis g
 
 <a name="__ddelink__1660_2385038542"></a>itlab
 
-Exercice 12 (Bonus)
+## Exercice 12 (Bonus)
 
 Montrer en quoi visualcode peut vous aider dans les différentes tâches associés aux exercices .
 
