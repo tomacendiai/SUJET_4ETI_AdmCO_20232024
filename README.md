@@ -3,7 +3,6 @@
 
 **Activité AdmCo 
 Partie 1 2023-2024**
-$e^{\pi i}$
 
 ` `Héberger chaque question sur gitlab. Faite un tag 1.0 quand vous pensez que  l’exercice est finalisé. Donnez moi les droits maintener sur vos projets ( « fabricejumel »)
 
@@ -32,15 +31,15 @@ def add(x, y):
 
 if \_\_name\_\_ == '\_\_main\_\_':
 
-`    `x=input('Enter the first number to add: ')
+  x=input('Enter the first number to add: ')
 
-`    `y=input('Enter the secode number to add: ')
+  y=input('Enter the secode number to add: ')
 
-`    `result = add(int(x),int(y))
+  result = add(int(x),int(y))
 
-`    `print(x, '+', y,'=', result)
+  print(x, '+', y,'=', result)
 
-`    `print('Code executed under the scope: ', \_\_name\_\_)
+  print('Code executed under the scope: ', \_\_name\_\_)
 ```
 
 A quoi sert requirments.txt ?
