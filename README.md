@@ -73,7 +73,7 @@ Comment utiliser docker ?
 Expliquez a quoi correspond ce worklow et pourquoi c'est une bonne pratique 
 ![ Workflow git ](images/git-model@2x_s.png)
 Créer un depot sur github TEST_worflowgit_NOM qui contient juste un fichier README. 
-En vous inspirant du liens suivant. Essayer de créer un ensemble de "commandes git " permettant d'avoir le plus exactement possible ( vous ferez des choix dans la cas ou ce n'est pas possible) le schéma précédent. Vous validerez par une commande d'affichage de git et une vision équivalente sur votre board github.
+En vous inspirant [du lien suivant](https://github.com/fabricejumel/gitexamples_workflowgit/). Essayer de créer un ensemble de "commandes git " permettant d'avoir le plus exactement possible ( vous ferez des choix dans la cas ou ce n'est pas possible) le schéma précédent. Vous validerez par une commande d'affichage de git et une vision équivalente sur votre board github.
 ## Exercice 1
 
 Créer un fichier python et coder 4 fonctions permettant de faire la somme, la différence, le produit et la division de 2 nombres complexes (sum, substract, mutliply, divide). 
