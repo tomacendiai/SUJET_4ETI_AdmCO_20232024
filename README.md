@@ -3,7 +3,7 @@
 
 **Activité AdmCo 
 Partie 1 2023-2024**
-Le rendu  est à faire en markdown sous github. Le rendu est à faire en monome . Les activirtés de codage sont à faire sous gitlab. L'ensemble des liens gitlabs des questions doit être inclus dans le rapport sous gitlab
+Le rendu  est à faire en markdown sous github. L'idée est de partir d'un fork de ce projet. Le rendu est à faire en monome . Les activités de codage sont à faire sous gitlab. L'ensemble des liens gitlabs des questions doit être inclus dans le rapport github.
 
 Héberger chaque question sur gitlab. Faite un tag 1.0 quand vous pensez que  l’exercice est finalisé. Donnez moi les droits maintener sur vos projets ( « fabricejumel »)
 
