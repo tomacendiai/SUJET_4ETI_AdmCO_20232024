@@ -19,7 +19,7 @@ l’idée est de faire mieux , en lien avec votre sujet (bien sûr) que ces deux
 Il est demandé de ne pas utiliser visualcode . 	
 
 
-## Exercice 0 
+## Questions Préparatoires
 
 Expliquer le code suivant  (addition.py):
 ```python
