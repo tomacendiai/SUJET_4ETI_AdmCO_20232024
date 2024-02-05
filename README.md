@@ -3,6 +3,7 @@
 
 **Activité AdmCo 
 Partie 1 2023-2024**
+$e^{\pi i}$
 
 ` `Héberger chaque question sur gitlab. Faite un tag 1.0 quand vous pensez que  l’exercice est finalisé. Donnez moi les droits maintener sur vos projets ( « fabricejumel »)
 
