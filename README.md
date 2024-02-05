@@ -146,7 +146,7 @@ Comment gérer de ne distribuer qu'une partie. Voir en particulier pour ne distr
 
 
 
-## Exercice 9.a
+## Exercice 9
 
 Création d’un package sur un repository pypi.
 
