@@ -4,7 +4,7 @@
 **Activité AdmCo 
 Partie 1 2023-2024**
 
-` `Héberger chaque question sur gitlab. Faite un tag 1.0 quand vous pensez que  l’exercice est finalisé. Donnez moi les droits maintener sur vos projets ( « fabricejumel »)
+Héberger chaque question sur gitlab. Faite un tag 1.0 quand vous pensez que  l’exercice est finalisé. Donnez moi les droits maintener sur vos projets ( « fabricejumel »)
 
 A part pour la question 0 , votre objectif est de  créer des dépots git pour chaque question.
 
