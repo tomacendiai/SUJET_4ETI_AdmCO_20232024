@@ -21,7 +21,7 @@ Il est demandé de ne pas utiliser visualcode .
 Exercice 0 
 
 Expliquer le code suivant  (addition.py):
-
+```python
 def add(x, y):
 
 `    `z=x+y
@@ -41,6 +41,7 @@ if \_\_name\_\_ == '\_\_main\_\_':
 `    `print(x, '+', y,'=', result)
 
 `    `print('Code executed under the scope: ', \_\_name\_\_)
+```
 
 A quoi sert requirments.txt ?
 
