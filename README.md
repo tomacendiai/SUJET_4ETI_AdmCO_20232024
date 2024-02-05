@@ -71,7 +71,7 @@ Comment utiliser docker ?
 
 ## Exercice 0
 Expliquez a quoi correspond ce worklow et pourquoi c'est une bonne pratique 
-![ Workflow git ](images/git-model@2x.png)
+![ Workflow git ](images/git-model@2x_s.png)
 Créer un depot sur github TEST_worflowgit_NOM qui contient juste un fichier README. 
 En vous inspirant du liens suivant. Essayer de créer un ensemble de "commandes git " permettant d'avoir le plus exactement possible ( vous ferez des choix dans la cas ou ce n'est pas possible) le schéma précédent. Vous validerez par une commande d'affichage de git et une vision équivalente sur votre board github.
 ## Exercice 1
