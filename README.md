@@ -204,11 +204,11 @@ systeme de fichier :
 
 <https://python-packaging-tutorial.readthedocs.io/en/latest/uploading_pypi.html>
 
-virtualenv:
+venv:
 
-<https://python.doctor/page-virtualenv-python-environnement-virtuel>
+[<https://python.doctor/page-virtualenv-python-environnement-virtuel>](https://docs.python.org/fr/3/library/venv.html)
 
-<https://python-guide-pt-br.readthedocs.io/fr/latest/dev/virtualenvs.html>
+
 
 log :
 
