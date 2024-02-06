@@ -194,7 +194,7 @@ Montrer en quoi visualcode peut vous aider dans les différentes tâches associ�
 
 **Quelques liens** 
 
-systeme de fichier :
+### systeme de fichier :
 
 <https://doc.ubuntu-fr.org/arborescence>
 
@@ -204,13 +204,13 @@ systeme de fichier :
 
 <https://python-packaging-tutorial.readthedocs.io/en/latest/uploading_pypi.html>
 
-venv:
+### venv:
 
 [<https://python.doctor/page-virtualenv-python-environnement-virtuel>](https://docs.python.org/fr/3/library/venv.html)
 
 
 
-log :
+### log :
 
 <https://docs.python.org/fr/3/howto/logging.html>
 
@@ -222,7 +222,7 @@ log :
 
 
 
-package
+### package
 
 <https://python.doctor/page-python-modules-package-module-cours-debutants-informatique-programmation>
 
@@ -264,7 +264,7 @@ http://cerfacs.fr/coop/python3_doc/pip_install/>
 
 
 
-PEP8 :
+### PEP8 :
 
 <https://openclassrooms.com/fr/courses/4425111-perfectionnez-vous-en-python/4464230-assimilez-les-bonnes-pratiques-de-la-pep-8>
 
@@ -280,7 +280,7 @@ PEP8 :
 
 
 
-black:
+### black:
 
 <https://python.doctor/page-black-code-formatter>
 
@@ -290,7 +290,7 @@ pylint et others :
 
 
 
-docstring :
+### docstring :
 
 <https://www.datacamp.com/community/tutorials/docstrings-python>
 
@@ -302,18 +302,13 @@ docstring :
 
 
 
-test:
+### test:
 
 <https://docs.python.org/fr/3.9/library/unittest.html>
 
 
 
-
-
-
-
-
-git :
+### git :
 
 <https://carlchenet.com/debuter-avec-git-creer-un-depot/>
 
@@ -344,7 +339,7 @@ git :
 
 <https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging>
 
-visualcode:
+### visualcode:
 
 <https://binx.io/blog/2020/03/05/setting-python-source-folders-vscode/>
 
@@ -352,7 +347,7 @@ visualcode:
 
 
 
-débuter avec les modules
+### débuter avec les modules
 
 <https://docs.python-guide.org/writing/structure/>
 
