@@ -57,7 +57,7 @@ Pour chaque question, vous indiquez vos ou vos sites choisis pour reference
 
   1. A quoi sert PYTHONPATH ?
 
-  1. Où sont stocké les paquets installé par pip ?
+  1. Où sont stockés les paquets installé par pip ?
 
   1. A quoi sert pip install –user ? 
 
@@ -70,6 +70,11 @@ Pour chaque question, vous indiquez vos ou vos sites choisis pour reference
   1. Comment utiliser docker ?
 
 ## Exercice 0
+
+1.A quoi sert git config , Quelles sont les informtions minimales à renseigner. Est ce bien fait sur votre ordinateur ?
+
+1.Quelles sont les commandes de bases git ? a quoi servent elles ? 
+
 Expliquez a quoi correspond ce worklow et pourquoi c'est une bonne pratique 
 ![ Workflow git ](images/git-model@2x_m.png)
 
@@ -77,7 +82,7 @@ Expliquez a quoi correspond ce worklow et pourquoi c'est une bonne pratique
   1. Créer un depot sur github TEST_worflowgit_NOM qui contient juste un fichier README. 
 En vous inspirant [du lien suivant](https://github.com/fabricejumel/gitexamples_workflowgit/). Essayer de créer un ensemble de "commandes git " permettant d'avoir le plus exactement possible ( vous ferez des choix dans la cas ou ce n'est pas possible) le schéma précédent. Vous validerez par une commande d'affichage de git et une vision équivalente sur votre board github.
 
-  1. Il est souvent plus simple de commencer son projet directement sur github ou gitlab en créant un README puis de le cloner avant de commencer a proprement parler son travail de développement. Proposer des modificatipons de la procedure vis à vis de l'exemple précedent qui tienne compte de ce changement et qui explique aussi à quelle moment procéder au push.
+  1. Il est souvent plus simple de commencer son projet directement sur github ou gitlab en créant un README puis de le cloner avant de commencer à proprement parler son travail de développement. Proposer des modifications de la procedure vis à vis de l'exemple précedent qui tienne compte de ce changement et qui explique aussi à quelle moment procéder au push.
 
 ## Exercice 1
 
