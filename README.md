@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
   x=input('Enter the first number to add: ')
 
-  y=input('Enter the secode number to add: ')
+  y=input('Enter the second number to add: ')
 
   result = add(int(x),int(y))
 
