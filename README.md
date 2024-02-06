@@ -21,7 +21,7 @@ Il est demandé de ne pas utiliser visualcode .
 
 ## Questions Préparatoires
 
-Expliquer le code suivant  (addition.py):
+  1. Expliquer le code suivant  (addition.py):
 ```python
 def add(x, y):
 
@@ -45,29 +45,29 @@ if __name__ == '__main__':
 ```
 Pour chaque question, vous indiquez vos ou vos sites choisis pour reference
 
-A quoi sert requirments.txt ?
+  1. A quoi sert requirments.txt ?
 
-A quoi ressemble un module en python ?
+  1.A quoi ressemble un module en python ?
 
-A quoi ressemble un package ?
+  1.A quoi ressemble un package ?
 
-Créer un code python utilisant sous forme de module addition.py
+  1.Créer un code python utilisant sous forme de module addition.py
 
-A quoi sert pip ? 
+  1.A quoi sert pip ? 
 
-A quoi sert PYTHONPATH ?
+  1.A quoi sert PYTHONPATH ?
 
-Ou sont stocké les paquets installé par pip ?
+  1.Où sont stocké les paquets installé par pip ?
 
-A quoi sert pip install –user ? 
+  1.A quoi sert pip install –user ? 
 
-A quoi sert venv ? 
+  1.A quoi sert venv ? 
 
-Comment utiliser venv ?
+  1.Comment utiliser venv ?
 
-A quoi sert docker ?
+  1.A quoi sert docker ?
 
-Comment utiliser docker ?
+  1.Comment utiliser docker ?
 
 ## Exercice 0
 Expliquez a quoi correspond ce worklow et pourquoi c'est une bonne pratique 
