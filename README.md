@@ -1,5 +1,6 @@
 # SUJET_4ETI_AdmCO_20232024
 
+![ Bonnes Pratiques](images/Bonnes_Pratiques.jpeg)
 
 **Activités AdmCo Partie 1 2023-2024**
 
