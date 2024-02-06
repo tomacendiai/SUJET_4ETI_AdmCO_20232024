@@ -4,11 +4,11 @@
 **Activité AdmCo 
 Partie 1 2023-2024**
 
-Le rendu  est à faire en markdown sous github. L'idée est de partir d'un fork de ce projet. Le rendu est à faire en monome . Les activités de codage sont à faire sous gitlab. L'ensemble des liens gitlabs des questions doit être inclus dans le rapport github.
+Le rendu  est à faire en markdown sous github. L'idée est de partir d'un fork de ce projet. Le rendu est à faire en monome . Les activités de codage sont à faire sous gitlab. L'ensemble des projets doit être privés et vous devez m'ajouter comme maintener . L'ensemble des liens gitlabs des questions doit être inclus dans le rapport github.
 
 Héberger chaque question sur gitlab. Faite un tag 1.0 quand vous pensez que  l’exercice est finalisé. Donnez moi les droits maintener sur vos projets ( « fabricejumel »)
 
-A part pour la question 0 , votre objectif est de  créer des dépots git pour chaque question.
+A part pour les questions Préparatoires , votre objectif est de  créer des dépots git pour chaque question.
 
 l’idée est de faire mieux , en lien avec votre sujet (bien sûr) que ces deux exemples :
 
@@ -76,6 +76,9 @@ Expliquez a quoi correspond ce worklow et pourquoi c'est une bonne pratique
 
 Créer un depot sur github TEST_worflowgit_NOM qui contient juste un fichier README. 
 En vous inspirant [du lien suivant](https://github.com/fabricejumel/gitexamples_workflowgit/). Essayer de créer un ensemble de "commandes git " permettant d'avoir le plus exactement possible ( vous ferez des choix dans la cas ou ce n'est pas possible) le schéma précédent. Vous validerez par une commande d'affichage de git et une vision équivalente sur votre board github.
+
+Il est souvent plus simple de commencer son projet directement sur github ou gitlab en créant un README puis de le cloner avant de commencer a proprement parler son travail de développement. Proposer des modificatipons de la procedure vis à vis de l'exemple précedent qui tienne compte de ce changement et qui explique aussi à quelle moment procéder au push.
+
 ## Exercice 1
 
 Créer un fichier python et coder 4 fonctions permettant de faire la somme, la différence, le produit et la division de 2 nombres complexes (sum, substract, mutliply, divide). 
