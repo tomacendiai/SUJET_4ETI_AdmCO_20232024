@@ -1,8 +1,7 @@
 # SUJET_4ETI_AdmCO_20232024
 
 
-**Activité AdmCo 
-Partie 1 2023-2024**
+**Activités AdmCo Partie 1 2023-2024**
 
 Le rendu  est à faire en markdown sous github. L'idée est de partir d'un fork de ce projet. Le rendu est à faire en monome . Les activités de codage sont à faire sous gitlab. L'ensemble des projets doit être privés et vous devez m'ajouter comme maintener . L'ensemble des liens gitlabs des questions doit être inclus dans le rapport github.
 
