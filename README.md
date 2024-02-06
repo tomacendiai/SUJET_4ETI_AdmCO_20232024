@@ -88,7 +88,7 @@ En vous inspirant [du lien suivant](https://github.com/fabricejumel/gitexamples_
 
 Créer un fichier python et coder 4 fonctions permettant de faire la somme, la différence, le produit et la division de 2 nombres complexes (sum, substract, mutliply, divide). 
 
-On représentera les complexes par un tuple à 2 élements réels [4.67,5.89]. Cette Partie1 est entierement à but pedagogique. Il est à noté qu’une classe complexe existe en python mais ne sera pas utilisé .
+On représentera les complexes par un tuple à 2 élements réels [4.67,5.89]. Cette Partie1 est entierement à but pedagogique. Il est à noté qu’une classe complexe existe en python mais ne sera pas utilisée .
 
 
 
@@ -184,11 +184,11 @@ Automatiser la phase de test et en cas de succès, la génération du .whl 
 
 ## Exercice 11 (Bonus)
 
-Essayer d'automatiser la phase de déploiement sur Pypi ment depuis g
+Essayer d'automatiser la phase de déploiement sur Pypi depuis gitlab
 
-<a name="__ddelink__1660_2385038542"></a>itlab
 
-## Exercice 12 (Bonus)
+
+## Exercice 12 
 
 Montrer en quoi visualcode peut vous aider dans les différentes tâches associés aux exercices . Refaire l'ensemble en utilisant visualcode. Illustrer avec des copies d'ecrans quand vous utilisez les fonctionnalités et expliquer le résultat 
 
