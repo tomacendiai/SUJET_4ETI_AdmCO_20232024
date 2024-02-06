@@ -192,7 +192,7 @@ Montrer en quoi visualcode peut vous aider dans les différentes tâches associ�
 
 
 
-` `**Quelques liens** 
+**Quelques liens** 
 
 systeme de fichier :
 
@@ -210,7 +210,7 @@ virtualenv:
 
 <https://python-guide-pt-br.readthedocs.io/fr/latest/dev/virtualenvs.html>
 
-` `log :
+log :
 
 <https://docs.python.org/fr/3/howto/logging.html>
 
@@ -230,29 +230,29 @@ package
 
 <https://packaging.python.org/tutorials/installing-packages/>
 
-` `<https://packaging.python.org/tutorials/packaging-projects/#packaging-your-project>
+<https://packaging.python.org/tutorials/packaging-projects/#packaging-your-project>
 
-` `<https://www.programiz.com/python-programming/package>
+<https://www.programiz.com/python-programming/package>
 
-` `<https://packaging.python.org/overview/>
+<https://packaging.python.org/overview/>
 
-` `<https://python.doctor/page-pip-installer-librairies-automatiquement>
+<https://python.doctor/page-pip-installer-librairies-automatiquement>
 
-` `<https://packaging.python.org/tutorials/packaging-projects/#packaging-your-project>
+<https://packaging.python.org/tutorials/packaging-projects/#packaging-your-project>
 
-` `<https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html>
+<https://python-packaging-tutorial.readthedocs.io/en/latest/setup_py.html>
 
-` `<http://cerfacs.fr/coop/python3_doc/pip_install/>
+http://cerfacs.fr/coop/python3_doc/pip_install/>
 
-` `<https://pip.pypa.io/en/stable/reference/pip_uninstall/>
+<https://pip.pypa.io/en/stable/reference/pip_uninstall/>
 
-` `<https://choosealicense.com/>
+<https://choosealicense.com/>
 
-` `<https://www.datacamp.com/community/tutorials/pip-python-package-manager>
+<https://www.datacamp.com/community/tutorials/pip-python-package-manager>
 
-` `<https://packaging.python.org/guides/distributing-packages-using-setuptools/>
+<https://packaging.python.org/guides/distributing-packages-using-setuptools/>
 
-` `[https://blog.ionelmc.ro/presentations/packaging/](https://blog.ionelmc.ro/presentations/packaging/#slide:1)
+[https://blog.ionelmc.ro/presentations/packaging/](https://blog.ionelmc.ro/presentations/packaging/#slide:1)
 
 <https://docs.gitlab.com/ee/user/packages/pypi_repository/>
 
@@ -276,7 +276,7 @@ PEP8 :
 
 <https://blog.impulsebyingeniance.io/outils-et-bonnes-pratiques-pour-un-code-python-de-bonne-qualite/>
 
-` `<https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html>
+<https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html>
 
 
 
@@ -302,7 +302,7 @@ docstring :
 
 
 
-` `test:
+test:
 
 <https://docs.python.org/fr/3.9/library/unittest.html>
 
@@ -344,7 +344,7 @@ git :
 
 <https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging>
 
-` `visualcode:
+visualcode:
 
 <https://binx.io/blog/2020/03/05/setting-python-source-folders-vscode/>
 
@@ -368,43 +368,5 @@ débuter avec les modules
 
 
 
-` `points avancés :
 
-` `<https://python.doctor/page-apprendre-programmation-orientee-objet-poo-classes-python-cours->
-
-iterateur :
-
-` `<https://python.doctor/page-decorateurs-decorator-python-cours-debutants>
-
-` `debug:
-
-<https://python.doctor/page-debogueur-debugger-debug-python-ipython-pdb-pdbpp-cours-tutoriel-script>
-
-`     `method could be a function error:
-
-[     https://docs.quantifiedcode.com/python-anti-patterns/correctness/method_could_be_a_function.html](https://docs.quantifiedcode.com/python-anti-patterns/correctness/method_could_be_a_function.html)
-
-
-
-
-
-Autres points de biblio :
-
-
-
-<https://www.edureka.co/blog/python-turtle-module/>
-
-<https://www.kernel.org/doc/Documentation/input/joystick-api.txt>
-
-<https://magpi.raspberrypi.org/articles/code-pac-man-in-pythonhttps://artofproblemsolving.com/assets/pythonbook/events.html>
-
-<https://computers.tutsplus.com/tutorials/using-a-wii-nunchuck-to-control-python-turtle--cms-20984>
-
-<https://gist.github.com/fabricejumel/387da8811507c60465c1fa27bbfed19b>
-
-<https://www.daniweb.com/programming/software-development/threads/115282/get-key-press>
-
-<https://python.doctor/page-reseaux-sockets-python-port>
-
-<https://www.edureka.co/blog/socket-programming-python/>
 
