@@ -265,7 +265,6 @@ http://cerfacs.fr/coop/python3_doc/pip_install/>
 
 <https://python-guide-pt-br.readthedocs.io/fr/latest/shipping/packaging.html>
 
-<http://autourducode.com/distribuer-paquet-python-pypi-pip-wheel.html> 
 
 
 
