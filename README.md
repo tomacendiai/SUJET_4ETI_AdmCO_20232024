@@ -172,7 +172,7 @@ Apres avoir créer votre token, déposer la partie fonctionnelle de votre packag
 
 ## Exercice 10
 
-Peut-on installer directement les paquets à partir du repository gilab ? Cela est il aussi possible dans le cas de dépendances (requirement.txt) ?
+Peut-on installer directement les paquets à partir du repository gitlab ? Cela est il aussi possible dans le cas de dépendances (requirement.txt) ?
 
 Prise en main, de l'intégration continu proposé par gitlab. 
 
