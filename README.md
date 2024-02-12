@@ -1,6 +1,6 @@
 # SUJET_4ETI_AdmCO_20232024 Thomas SANDIER
 
-Les questions préparatoire était commit mais sans faire exprès github m'a proposé de "discard 5 commits" et j'ai accepté... mais le fichier contenant toute les réponses (réecrit à la main et non copié/collé de chat gpt) se trouve encore sur mon pc de l'école. Je le remeterai sur github ce mardi.
+Les questions préparatoire étaient commit mais sans faire exprès github m'a proposé de "discard 5 commits" et j'ai accepté... mais le fichier contenant toute les réponses (réecrit à la main et non copié/collé de chat gpt) se trouve encore sur mon pc de l'école. Je le remeterai sur github ce mardi.
 
 Exercice 1 : https://gitlab.com/thomassandier/tp1_ex1
 
